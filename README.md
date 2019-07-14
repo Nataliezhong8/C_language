@@ -1,2 +1,2 @@
-# C_language
+# coding language
 exercise
