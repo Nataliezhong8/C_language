@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "quack.h": "c",
+        "TEST.C": "cpp",
+        "base2.C": "cpp",
+        "cmath": "c"
+    }
+}
